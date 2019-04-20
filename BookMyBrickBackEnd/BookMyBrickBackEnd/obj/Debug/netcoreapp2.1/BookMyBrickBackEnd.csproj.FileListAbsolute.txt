@@ -1,0 +1,17 @@
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\bin\Debug\netcoreapp2.1\BookMyBrickBackEnd.deps.json
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\bin\Debug\netcoreapp2.1\BookMyBrickBackEnd.runtimeconfig.json
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\bin\Debug\netcoreapp2.1\BookMyBrickBackEnd.runtimeconfig.dev.json
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\bin\Debug\netcoreapp2.1\BookMyBrickBackEnd.dll
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.csprojAssemblyReference.cache
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.csproj.CoreCompileInputs.cache
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.RazorAssemblyInfo.cache
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.RazorAssemblyInfo.cs
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.AssemblyInfoInputs.cache
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.AssemblyInfo.cs
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.RazorTargetAssemblyInfo.cache
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\bin\Debug\netcoreapp2.1\BookMyBrickBackEnd.pdb
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.dll
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.pdb
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\bin\Debug\netcoreapp2.1\BookMyBrickDomain.dll
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\bin\Debug\netcoreapp2.1\BookMyBrickDomain.pdb
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickBackEnd\obj\Debug\netcoreapp2.1\BookMyBrickBackEnd.csproj.CopyComplete

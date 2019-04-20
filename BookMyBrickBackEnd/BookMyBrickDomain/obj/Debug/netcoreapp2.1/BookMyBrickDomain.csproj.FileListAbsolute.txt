@@ -1,0 +1,9 @@
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\bin\Debug\netcoreapp2.1\BookMyBrickDomain.deps.json
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\bin\Debug\netcoreapp2.1\BookMyBrickDomain.dll
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\obj\Debug\netcoreapp2.1\BookMyBrickDomain.csproj.CoreCompileInputs.cache
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\obj\Debug\netcoreapp2.1\BookMyBrickDomain.AssemblyInfoInputs.cache
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\obj\Debug\netcoreapp2.1\BookMyBrickDomain.AssemblyInfo.cs
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\bin\Debug\netcoreapp2.1\BookMyBrickDomain.pdb
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\obj\Debug\netcoreapp2.1\BookMyBrickDomain.dll
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\obj\Debug\netcoreapp2.1\BookMyBrickDomain.pdb
+E:\BookMyBrick2.0\BookMyBrickBackend\BookMyBrickBackEnd\BookMyBrickDomain\obj\Debug\netcoreapp2.1\BookMyBrickDomain.csprojAssemblyReference.cache
